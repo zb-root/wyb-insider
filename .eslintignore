@@ -1,0 +1,7 @@
+lib
+.idea
+.svn
+.git
+node_modules
+docs
+test
